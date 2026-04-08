@@ -262,6 +262,6 @@ MIT — use it however you want.
 
 ---
 
-*Built by Daniel Grande. 40+ products shipped with AI agents in 2 months. This architecture is what made that possible.*
+*Built by Daniel Grande / [CoachPilotAI](https://github.com/CoachPilotAI). 40+ products shipped with AI agents in 2 months. This architecture is what made that possible.*
 
 *Need help implementing this for your team? Reach out: [contact coming soon]*
